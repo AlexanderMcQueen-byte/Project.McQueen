@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 struct Book {
     char title[30];
     char author[30];
